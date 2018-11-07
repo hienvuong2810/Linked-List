@@ -1,0 +1,1 @@
+set JAVA="C:\Java\jdk1.8.0_71\bin"
